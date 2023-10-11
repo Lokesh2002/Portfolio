@@ -32,13 +32,13 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Product Designing
+                  Product Designing, Project Managing
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with  and
               <i>
                 <b className="purple">
                   {" "}
