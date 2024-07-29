@@ -45,7 +45,7 @@ function Projects() {
               imgPath={fiserv}
               isBlog={false}
               title="Scripting Engineer @ fiserv."
-              description="Working as an scripting engineer in the aggregation team in the Digital Payments department. Handling the client data very secure and contributing to team success."
+              description="Working as an scripting engineer intern in the aggregation team in the Digital Payments department. Handling the client data very secure and contributing to team success."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
             />
           </Col>
@@ -55,7 +55,7 @@ function Projects() {
               imgPath={melos}
               isBlog={false}
               title="Web Developer @Melospiza"
-              description="Develops a frontend website where it has to be easy and understandable for the user to use the website "
+              description="Worked as an web developer in this startup, Develops a frontend website where it has to be easy and understandable for the user to use the website "
   
             />
           </Col>
@@ -65,7 +65,7 @@ function Projects() {
               imgPath={melos}
               isBlog={false}
               title="Project Manager @Melospiza"
-              description="Created, communicated, and managed project plans & project timelines & Worked to continually meet the expectation of our clients"     
+              description="Worked as an project manager in this startup, Created, communicated, and managed project plans & project timelines & Worked to continually meet the expectation of our clients"     
             />
           </Col>
 
