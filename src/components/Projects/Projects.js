@@ -6,6 +6,7 @@ import chatify from "../../Assets/Projects/chatify.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import rit from "../../Assets/Projects/rit.jpeg";
 import melos from "../../Assets/Projects/melos.jpg";
+import fiserv from "../../Assets/Projects/fiserv.png";
 
 function Projects() {
   return (
@@ -34,12 +35,22 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Portfolio"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="My personal blog page build with the help of html, css, react.js, node etc.. which is very attractive and explains about you very easily and clearly. "
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+                <Col md={5} className="project-card">
+            <ProjectCard
+              imgPath={fiserv}
+              isBlog={false}
+              title="Scripting Engineer @ fiserv."
+              description="Working as an scripting engineer in the aggregation team in the Digital Payments department. Handling the client data very secure and contributing to team success."
+              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+            />
+          </Col>
+
+          <Col md={5} className="project-card">
             <ProjectCard
               imgPath={melos}
               isBlog={false}
@@ -49,7 +60,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          <Col md={5} className="project-card">
             <ProjectCard
               imgPath={melos}
               isBlog={false}
@@ -58,7 +69,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          <Col md={5} className="project-card">
             <ProjectCard
               imgPath={rit}
               isBlog={false}
