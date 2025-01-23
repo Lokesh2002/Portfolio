@@ -10,8 +10,11 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Lokeshwer  </span>
             from <span className="purple"> Chennai, India.</span>
-            <br />I am an entry-level software engineer with a B.E. in Computer Science & Engineering.
             <br />
+              <br/>
+              I am an entry-level software engineer with a B.E. in Computer Science & Engineering.
+            <br />
+              <br/>
              I recently completed an internship as a Scripting Engineer at Fiserv, where I gained valuable hands-on experience in scripting and web development.
 
 Alongside my internship, I have been focusing on learning and developing interactive products, honing my skills in creating innovative and user-centric solutions. My goal is to continue improving my technical expertise and evolve as a software engineer, with a strong emphasis on building scalable and efficient products.
