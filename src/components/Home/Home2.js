@@ -23,13 +23,13 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> HTML 5, CSS 3, Javascript and so on. </b>
+                <b className="purple"> HTML 5, CSS 3, Javascript, XML, JSP and so on. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Software Developing, Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Product Designing, Project Managing
