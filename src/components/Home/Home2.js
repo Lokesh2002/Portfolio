@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> HTML 5, CSS 3, Javascript, XML, JSP and so on. </b>
+                <b className="purple"> HTML 5, CSS 3, Python, Javascript, XML, JSP and so on. </b>
               </i>
               <br />
               <br />
@@ -32,23 +32,11 @@ function Home2() {
                 <b className="purple">Software Developing, Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Product Designing, Project Managing
+                  Product Designing, Project Managing, Testing.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with  and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js </b>
-              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
