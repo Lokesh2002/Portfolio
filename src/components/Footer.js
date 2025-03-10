@@ -16,14 +16,14 @@ function Footer() {
           <h3>Designed and Developed by Lokeshwer</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {2024} Loki</h3>
+          <h3>Copyright © {2025} Loki</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
                 href="https://github.com/Lokesh2002"
-                style={{ color: "white" }}
+                style={{ color: "grey" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
@@ -33,7 +33,7 @@ function Footer() {
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/lokeshwer-s-b40383200/"
-                style={{ color: "white" }}
+                style={{ color: "blue" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
@@ -42,8 +42,8 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/lokeshwer_2922/"
-                style={{ color: "white" }}
+                href="https://www.instagram.com/capt.loki_2908?igsh=NjdhcWx1eWxmNHBo"
+                style={{ color: "orange" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
